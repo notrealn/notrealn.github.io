@@ -1,0 +1,9 @@
+{
+  "short_name": "my gh website",
+  "name": "notrealn github website",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
